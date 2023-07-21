@@ -1,0 +1,36 @@
+div{
+    text-align:center;
+  }
+  .eye1{
+    border-radius:100%;
+    border:2px solid black;
+    width:73px;
+    height:89px;
+    position:relative;
+    bottom:747px;
+    left:694px;
+    overflow:hidden;
+  }
+  .eye11{
+    border-radius:50%;
+    border:2px solid black;
+    width:18px;
+    height:29px;
+    position:relative;
+    top:30px;
+    left:40px;
+  }
+  .eye2{
+    border-radius:50%;
+    border:2px solid black;
+    width:74px;
+    height:89px;
+    position:relative;
+    bottom:839px;
+    left:771px;
+    overflow:hidden;
+  }
+
+  
+  
+  
